@@ -18,3 +18,5 @@ The SAMSUM and SCiTLDR datasets are downloaded from hugging face.
 ## Usage:
 The notebook file contains all the experiments performed and you can run the code to download the models from hugging face, load and preprocess the dataset, and fine tune the models to obtain the ROUGE scores.
 
+## Presentation:
+I talk about the project and do a short demo in this video: https://youtu.be/fKr6Brk9cxE?si=puHf1-kFqLHgAjj-
